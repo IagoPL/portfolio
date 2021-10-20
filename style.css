@@ -1,0 +1,40 @@
+/*fuentes*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;1,400;1,600&display=swap');
+
+/*variables*/
+
+:root{
+    --header-height: ;
+
+        /*colores*/
+        --hue-color:250 ;
+
+        --color-primario: hsl (var(--hue-color),69%,61%);
+        --color-primario-dos: hsl (var(--hue-color),69%,61%); 
+        --color-primario-alt: hsl (var(--hue-color),57%,53%);
+        --color-primario-claro: hsl (var(--hue-color),92%,85%); 
+        --color-titulo: hsl (var(--hue-color),8%,15%);
+        --color-texto: hsl (var(--hue-color),8%,45%);
+        --color-texto-claro: hsl (var(--hue-color),8%,65%);
+        --color-imput: hsl (var(--hue-color),70%,96%);
+        --color-body: hsl (var(--hue-color),60%,99%);
+        --color-container:#fff;
+
+        /*fuentes */
+
+        --fuente-body:'Poppins', sans-serif; ;
+            /*tamaño*/
+        --grande: 2rem;
+        --normal: .938rem;
+        --pequeña1: .813rem;
+        --pequeña2: 75rem;
+        --h1: 1.5rem;
+        --h2: 1.25rem;
+        --h3: 1.125rem;
+
+            /*ancho*/
+        --medium: 500;
+        --semi-bold: 600;
+
+}
